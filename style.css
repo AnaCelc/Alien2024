@@ -3,5 +3,6 @@ body{
 }
 p{
     color: rgb(206, 33, 33);
-    font-style: normal;
+    font-style: (calc);
+    font-size: (height: 78);
 }
