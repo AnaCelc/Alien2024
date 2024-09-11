@@ -1,8 +1,8 @@
 body{
-    background-color: rgb(33, 29, 36);
+    background-color: rgb(66, 59, 72);
 }
 p{
-    color: rgb(206, 33, 33);
+    color: rgb(173, 13, 13);
     font-style: (calc);
-    font-size: (height: 78);
+    font-size: larger;
 }
