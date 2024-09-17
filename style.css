@@ -1,9 +1,10 @@
 body{
-    background-color: rgb(150, 29, 25);
+    background-color: rgb(175, 70, 66);
 }
 
 p{
-    color: rgb(22, 20, 26);  
+    color: rgb(20, 17, 27);  
+    font-size: larger;
 }
 
 h1{
