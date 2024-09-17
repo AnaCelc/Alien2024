@@ -3,7 +3,9 @@ body{
 }
 
 p{
-    color: rgb(22, 20, 26);
-    font-style: calc(normal);
-    font-size: larger;
+    color: rgb(22, 20, 26);  
+}
+
+h1{
+    font-style: oblique;
 }
