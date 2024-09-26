@@ -13,3 +13,8 @@ p{
 h1{
     font-style: oblique;
 }
+
+.img1 {
+    width: 40%;
+    text-align: center;
+}
