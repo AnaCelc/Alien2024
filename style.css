@@ -1,17 +1,18 @@
 body{
-    background-color: rgb(175, 70, 66);
+    background-color: rgb(173, 119, 117);
     text-align: center;
     font-family: monospace;
 /}
 
 p{
-    color: rgb(14, 10, 24);  
+    color: rgb(26, 20, 39);  
     text-align: center;
+    font-size: 6;
 /}
 
 h1{
     font-family: Georgia;
-    font-size: 10;
+    font-size: 7;
 /}
 
 
