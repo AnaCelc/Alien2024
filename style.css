@@ -5,10 +5,11 @@ body{
 
 p{
     color: rgb(14, 10, 24);  
+    text-align: center;
 }
 
 p{
-    width: 80%;
+    width: 300;
 }
 
 h1{
