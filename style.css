@@ -1,5 +1,6 @@
 body{
     background-color: rgb(175, 70, 66);
+    text-align: center;
 }
 
 p{
@@ -7,14 +8,14 @@ p{
 }
 
 p{
-    width: 70;
+    width: 80%;
 }
 
 h1{
     font-style: oblique;
 }
 
-.halloween1978 {
+.halloween1978.png {
     width: 40%;
     text-align: center;
 }
